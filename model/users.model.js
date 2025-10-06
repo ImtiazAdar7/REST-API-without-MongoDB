@@ -1,0 +1,2 @@
+users = [{"id": "1", "name": "Imtiaz Ahmed", "Age": 25, "Address": "Bashundhara R/A"}, {"id": "2", "name": "Iztihad Ahmed", "age": 19, "address": "Motijheel"}, {"id": "3", "name": "Anisul Islam", "age": 35, "address": "Tempere"}]
+module.exports = users;
